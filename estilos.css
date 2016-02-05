@@ -103,7 +103,7 @@ h2.date-header {margin:0;display:none;}
 .post h1 {color: #2C78D5;font-weight: bold;font-size: 20px;line-height: 24px;padding: 0;overflow:hidden; margin-top:10px;margin-bottom:10px;}
 .post h1 a, .post h1 a:visited, .post h1 strong {display:block;text-decoration:normal;color: #2C78D5;font-weight:normal;}
 .post h1 strong, .post h1 a:hover {color: #2C78D5;text-decoration:underline;}
-.post h2 {color: #2C78D5;font-weight: bold;font-size: 16px;line-height: 20px;margin: 0;margin-top:0px;padding: 0;overflow:hidden;height:18px;}
+.post h2 {color: #2C78D5;font-weight: bold;font-size: 16px;line-height: 20px;margin: 0;margin-top:0px;padding: 2px;overflow:hidden;height:18px;}
 .post h2 a, .post h2 a:visited, .post h2 strong {display:block;text-decoration:normal;color: #2C78D5;font-weight:normal;}
 .post h2 strong, .post h2 a:hover {color: #2C78D5;text-decoration:underline;}
 .post-body {margin:0 0 .75em;line-height:1.6em;}
